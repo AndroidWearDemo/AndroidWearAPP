@@ -1,0 +1,39 @@
+两个2048电源：现在Android上的磨损
+连接类似瓦片，形成新的瓷砖。
+例如：
+2 +2 = 4
+4 +4 = 8
+8 +8 = 16个
+....
+1024 + 1024 = 2048
+你可以得到2048瓦？
+更新日期
+2015年4月21日
+ 
+大小
+8.0M
+ 
+安装次数
+5,000 - 10,000
+ 
+当前版本
+1.1.7
+ 
+Android系统版本要求
+4.3及更高版本
+ 
+内容分级
+所有人
+权限
+查看详情  
+举报
+举报不当内容  
+提供者：
+Spooky House Studios UG(haftungsbeschraenkt)
+ 
+开发者
+访问网站
+发电子邮件至support@spookyhousestudios.com
+Spooky House Studios UG (haftungsbeschr?nkt)
+GutsMuthsstr. 34, 04177 Leipzig
+Germany

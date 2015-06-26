@@ -1,0 +1,39 @@
+"Math it!" is a logic, math game that can help you train your brain. It is like a test with four answers, you need to choose the right one to get a point. You have to solve this equations quickly, because the time is running out and you can loose a life, careful you have only three. The more points you get the equations get harder.
+The game is fun and sometimes hard, but thanks to that you can improve your mathematical skills.
+--------------------------------------
+Android Wear
+There is a module for Android Wear included. It is a little easier, because you only have to choose if the displayed answer, under the equation on the screen, is true or false by touching green or red panel.
+--------------------------------------
+Google Play Games
+The game is using Google Play Games. After logging in you can unlock achievemnts and submit scores to leaderboards.
+“数学吧！”是逻辑，数学游戏，可以帮助你训练你的大脑。这就像有四个答案测试，你需要选择正确的拿到一分。你必须迅速解决这个方程，因为时间已经不多了，你可以松一命，小心你只有三个。更多的积分，你得到的公式会更加困难。
+本场比赛是有趣的，有时很难，但由于可以提高你的数学技能。
+--------------------------------------
+Android Wear
+这里是Android Wear模块包括在内。这是一个更容易一些，因为你只需要选择是否显示的答案，屏幕上的公式下，是真的还是假的触摸绿色或红色面板。
+--------------------------------------
+谷歌玩游戏
+游戏使用谷歌玩游戏。登陆后，您可以解锁achievemnts并提交分数排行榜。
+更新日期
+2015年3月20日
+ 
+大小
+3.4M
+ 
+安装次数
+1,000 - 5,000
+ 
+当前版本
+1.1.2
+ 
+Android系统版本要求
+4.1及更高版本
+ 
+内容分级
+所有人
+权限
+查看详情  
+举报
+举报不当内容  
+提供者：
+emersoft

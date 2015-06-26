@@ -1,0 +1,68 @@
+ !! Get a Free Manage your Android Wear !!!
+You can manage the list of apps installed on your Android Wear.
+Wear the app installed on your phone by showing only help so you can easily Launch, Setting Info or delete. 
+And Running applicaion List on the Android Wear. 
+You can check Android Wear memory and Kill the application Process.
+**** Features ****
+* Installed application list that support the Android Wear
+- Launch on Wear
+- Launch on Phone/Tablet
+- Delete
+- Go to Application Setting
+* Running Applicaion On the Android Wear
+- Kill Process
+- Check Use/Total Memory 
+*** Features will be added
+Battery Manage !!
+So thank you for the feedback about the current beta version features and opinions.
+We do not collect any personal information this app
+大小
+3.67M
+更新
+1月3日
+版本
+0.7.0.2   更多版本 ?
+要求
+Android 4.3 以上
+！获得免费的管理您的Andr??oid磨损！
+您可以管理安装在您的Andr??oid磨损的应用程序列表。
+通过展示不仅有利于佩戴手机上安装的应用程序使您可以轻松地启动，设置信息或删除。
+和运行在Android磨损应用程序广告清单。
+您可以查看Android的磨损内存和杀死应用进程。
+
+**** ****特点
+*安装的应用程序列表支持Android磨损
+  - 发动对磨损
+  - 启动对手机/平板
+  - 删除
+  - 进入应用程序设置
+*运行应用程序广告在Android磨损
+  - 杀死进程
+  - 检查使用/总内存
+***功能将被加入
+电池管理！
+所以，感谢你对目前的测试版的功能和意见反馈。
+我们不会收集任何个人信息的应用程序
+更新日期
+2014年10月27日
+ 
+大小
+3.7M
+ 
+安装次数
+1,000 - 5,000
+ 
+当前版本
+0.7.0.2
+ 
+Android系统版本要求
+4.3及更高版本
+ 
+内容分级
+所有人
+权限
+查看详情  
+举报
+举报不当内容  
+提供者：
+SunnYU

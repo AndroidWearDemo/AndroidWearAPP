@@ -1,0 +1,41 @@
+This app is only for Android Wear. This does not run for your smartphone.
+dMetronome is a metronome app runs in Android Wear.
+It is an only metronome for Android Wear.
+Set BPM with slider, and set accurate BPM with buttons.
+After setting BPM, start metronome. Then, your watch will vibrate in the BPM.
+You also can set counts from 1 to 8 in preference screen.
+
+# Android Wear device frame is from Cyril Mottier. http://bit.ly/1CG52nJ
+# Check out source at https://github.com/Digutsoft/dMetronome
+此应用程序仅适用于Android的磨损。这不会为你的智能手机上运行。
+dMetronome是Android的穿节拍器应用程序运行。
+这是为Android戴上仅节拍器。
+带滑块设置BPM，并设定精确的BPM的按钮。
+设定BPM后，启动节拍器。然后，你的手表会震动的BPM。
+您也可以从1优先屏幕设置数量为8。
+
+＃的Andr??oid设备磨损帧是从西里尔莫蒂耶。 http://bit.ly/1CG52nJ
+＃查看源在https://github.com/Digutsoft/dMetronome
+更新日期
+2015年2月16日
+ 
+大小
+1.8M
+ 
+安装次数
+5,000 - 10,000
+ 
+当前版本
+14.10.9
+ 
+Android系统版本要求
+4.3及更高版本
+ 
+内容分级
+所有人
+权限
+查看详情  
+举报
+举报不当内容  
+提供者：
+Digutsoft

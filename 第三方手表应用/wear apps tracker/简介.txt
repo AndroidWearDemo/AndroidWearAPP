@@ -1,0 +1,61 @@
+When you install an app on your phone it's easy to understand what's happening: you've got notifications and confirmation screens. The same is not true for your Android Wear device: after installing the app on the phone you just have to wait for the magic to happen, opening and closing the Start... menu until the epiphany occurs bringing the new icon on the list.
+Not anymore! With Wear Apps Tracker you'll get a notification on your Android Wear device stream every time you install, remove or update an app for your smartwatch.
+Plus, a simple wearable apps manager as a handheld app companion.
+★Features
+? Material inspired / #materyolo
+? Get a notification on your Android Wear device stream every time you install, remove or update an app for your smartwatch.
+? Open the handheld companion app to get a list of every third party apps installed on your Android Wear device
+? Tap on the rows of the App List to go straight to the relative Setting screen and manage the App; pull the list to refresh it
+? Open the handheld companion app to turn on/off the notification cards for specific events: new installations, upgrades, removals.
+Please NOTE: You must start Wear Apps Tracker on the watch once it's installed. It's required just one time after the first installation.
+★Featured on
+?Android Police http://goo.gl/wGmJVJ - http://goo.gl/88odcb - http://goo.gl/HzNKAi
+? phoneArena http://goo.gl/LQZGzP
+? TuttoAndroid http://goo.gl/MKsLxL - AndroidWorld.it http://goo.gl/aQWMNi
+★Finalist app at AppCircus San Francisco 2014 http://goo.gl/Fb6rTr
+★Permissions
+? Run at startup: just to clean any data mess potentially caused by a brute shutdown of the wearable device.
+
+The app is still in development, so please expect future improvements|
+当你在手机上安装一个应用程序可以很容易地理解发生了什么：你已经得到通知和确认屏幕。同样是不是的适用于您的Andr??oid Wear设备：在手机上安装应用程序后，你只需要等待神奇的事情发生，打开和关闭开始...菜单，直到顿悟将发生列表上的新图标。
+现在不一样了！的具有耐磨应用程序跟踪你的让每一个安装，删除或更新您的SmartWatch一个应用程序时您Android Wear设备流的通知。
+此外，一个简单的应用程序可穿戴Manager作为手持应用的伴侣。
+★功能
+?材料启发/ #materyolo
+?获取通知的每次安装，删除或更新您的SmartWatch一个应用程序时您Android Wear设备流。
+?打开掌上伴侣应用获取安装在您的Andr??oid Wear设备上的每个第三方应用程序的列表
+?塔上的应用程序列表的行直来直去的相对设置的屏幕和管理应用程序;拉列表刷新
+?打开掌上伴侣应用程序来开启/关闭通知卡特定事件：全新安装，升级，清除。
+请注意：您必须启动，一旦它的安装佩戴跟踪器的应用程序上的手表。它需要的只是一个时间的第一个安装后。
+★精选在
+?Android警方http://goo.gl/wGmJVJ - http://goo.gl/88odcb - http://goo.gl/HzNKAi
+?phoneArena http://goo.gl/LQZGzP
+?TuttoAndroid http://goo.gl/MKsLxL - AndroidWorld.it http://goo.gl/aQWMNi
+★在AppCircus旧金山入围2014年的应用程序的http://goo.gl/Fb6rTr
+★权限
+?在启动时运行的：只是为了清除任何数据的混乱可能通过可穿戴设备的野蛮关机造成的。
+
+该应用程序仍在开发中，所以请期待未来的改进|
+更新日期
+2014年11月20日
+ 
+大小
+4.6M
+ 
+安装次数
+10,000 - 50,000
+ 
+当前版本
+2.1.1
+ 
+Android系统版本要求
+4.3及更高版本
+ 
+内容分级
+所有人
+权限
+查看详情  
+举报
+举报不当内容  
+提供者：
+Luigi Notaro

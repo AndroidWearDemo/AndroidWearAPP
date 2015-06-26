@@ -1,0 +1,43 @@
+Hijri Calender it is a small app for android wear to display The Islamic Calender.
+This app is the first Hijri Calender for android wear in play store.
+This app it`s working only on android wear device
+Main Features:
+1. Display Hijri and Gregorian Date.
+2. English and Arabic month names .
+3. Offset Days "IF the Hijri Date are not correct".
+More Features are coming soon...
+This Version is BETAversion , so please before writing any bad comments contact with me via my email: 
+Alhazmy15@gmail.com
+回历日历是为Android磨损，显示伊斯兰日历的小应用程序。
+这个程序是第一回历日历在Play商店Android的磨损。
+此应用它`工作仅在Android设备磨损
+主要特点：
+1.显示回历与公历日期。
+2.英语和阿拉伯语的月份名称。
+3.偏移天“，如果不正确的回历日期”。
+更多功能即将推出...
+此版本为 BETA 的版本，所以请写通过我的电子邮件，我有什么不好的评论接触之前：
+Alhazmy15@gmail.com
+更新日期
+2014年10月24日
+ 
+大小
+2.8M
+ 
+安装次数
+10,000 - 50,000
+ 
+当前版本
+1.0.1
+ 
+Android系统版本要求
+3.0及更高版本
+ 
+内容分级
+所有人
+权限
+查看详情  
+举报
+举报不当内容  
+提供者：
+Abdullah Alhazmy

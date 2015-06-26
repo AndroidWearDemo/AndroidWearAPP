@@ -1,0 +1,43 @@
+An Android Wear app to prevent rugrats from accidentally SMSing China or ordering you a Lyft car when you’re
+holding them. It keeps the screen on, but at its lowest brightness setting to avoid annoying – or
+worse yet, interesting – an infant.
+Start the app by saying "OK Google, run Baby Time." The only way to exit Baby Time is to swipe up
+twice and then down twice:
+**? Motor control verified. WELCOME ADULT HUMAN**
+Any other types of touches will keep the watch locked and just show a message:
+**? BABY-LIKE TAPPING DETECTED**
+This app is *ONLY* for phones with Android Wear watches connected! It won't do anything at all on a phone alone, and will not work with any other types of smartwatches. If you do have a compatible Android Wear device, the app should show up on your watch within a few minutes of installing this app on your phone.
+This app is free, with no IAP or ads, and is open source: https://github.com/ysamlan/wearbabytime - enjoy.
+一个Android应用程序的磨损，防止小淘气意外SMSing中国或订购你Lyft的车，当你
+持有它们。它保持在屏幕上，但在最低亮度设置，以避免恼人的 - 或
+更糟糕的是，有趣的 - 一个婴儿。
+说启动应用程序“确定谷歌，宝贝运行时间。”退出婴儿时，唯一的方法就是刷了
+两次，然后向下两次：
+**?电机控制验证。欢迎光临成人**
+任何其他类型的触摸将保持手表锁定，只显示一条消息：
+*?婴儿般的攻DETECTED **
+这个程序是*仅适用于与手机连接的Andr??oid戴手表*！它不会在所有的单独的电话做任何事情，并且不会与任何其他类型的smartwatches的工作。如果你有一个兼容的Andr??oid设备磨损，应用程序应该显示在您的手表在手机上安装此应用程序的几分钟之内。
+这个程序是免费的，没有IAP或广告，而且是开源的：https://github.com/ysamlan/wearbabytime - 享受。
+更新日期
+2014年9月28日
+ 
+大小
+1.8M
+ 
+安装次数
+1,000 - 5,000
+ 
+当前版本
+1.0.3
+ 
+Android系统版本要求
+4.3及更高版本
+ 
+内容分级
+所有人
+权限
+查看详情  
+举报
+举报不当内容  
+提供者：
+Yoni Samlan

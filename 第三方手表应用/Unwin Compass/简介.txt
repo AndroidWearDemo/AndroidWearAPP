@@ -1,0 +1,20 @@
+Unwin Compass
+This is my first actual good looking app.....ish. Made to teach myself about Android Sensors in app development only took me about an hour to make this. With the help of our team graphics designer - Josh Greenhough who made the compass design.
+这是我第一次真正好看的程序.....十岁上下。向教我关于Android中的传感器应用开发只花了我一个小时左右，使这个。与我们的团队的图形设计师的帮助下 - 约什Greenhough谁提出的罗盘设计。
+更新日期
+2014年11月19日
+ 
+大小
+3.7M
+ 
+安装次数
+10,000 - 50,000
+ 
+当前版本
+5.1
+ 
+Android系统版本要求
+4.4及更高版本
+ 
+内容分级
+所有人

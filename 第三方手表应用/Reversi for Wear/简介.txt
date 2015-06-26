@@ -1,0 +1,59 @@
+The classic strategy board game for Wear.
+
+Square and round screens are supported.
+
+FEATURES
+? One player (human vs CPU)
+? Two players (human vs human)
+? Zero player (CPU vs CPU)
+? Grid sizes (4x4, 6x6 and 8x8)
+? Variable difficulty
+? Naive AI (negascout)
+
+HOW TO USE IT
+? At start, swipe to the right to select the desired mode (one player, two players, etc.)
+? In game, swipe up to view the score. Swipe up again to restart or select another mode
+? Simple tap to drop a disc
+? Double tap to zoom the board
+? Long press the screen to quit
+经典的策略型游戏的磨损情况。
+  
+方形和圆形屏幕的支持。
+    
+功能
+?一个玩家（人类VS CPU）
+?两个玩家（人类VS人类）
+?零播放器（CPU VS CPU）
+?网格大小（4×4，6×6和8×8）
+?变困难
+?天真AI（negascout）
+  
+如何使用
+?在启动，向右滑动来选择所需的模式（一个球员，两名球员等）
+?在游戏中，向上滑动来查看分数。刷卡再次重启或选择其他方式
+?简单的水龙头滴盘
+?枪王放大板
+?长按屏幕退出
+更新日期
+2014年11月10日
+ 
+大小
+839k
+ 
+安装次数
+10,000 - 50,000
+ 
+当前版本
+1.0.1
+ 
+Android系统版本要求
+2.3.3及更高版本
+ 
+内容分级
+所有人
+权限
+查看详情  
+举报
+举报不当内容  
+提供者：
+AQ
